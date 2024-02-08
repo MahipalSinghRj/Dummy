@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "76988010772",
+    "project_id": "sfa-panasonic",
+    "storage_bucket": "sfa-panasonic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76988010772:android:76f341a17b88cded7a7201",
+        "android_client_info": {
+          "package_name": "com.panasonicsales.synergy.tool"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfk_pO_8Gf-JekSUeYQoxCs8A9rZs9rp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

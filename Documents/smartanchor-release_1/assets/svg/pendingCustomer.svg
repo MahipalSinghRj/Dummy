@@ -1,0 +1,27 @@
+<svg fill="none" height="27" viewBox="0 0 27 27" width="27" xmlns="http://www.w3.org/2000/svg">
+    <g id="Group 1000003383">
+        <g id="Clip path group">
+            <g id="Group">
+                <path
+                    d="M13.4479 19.7763C13.4479 23.2136 10.6613 26.0002 7.22393 26.0002C3.78656 26.0002 1 23.2136 1 19.7763C1 16.3389 3.78656 13.5523 7.22393 13.5523C10.6613 13.5523 13.4479 16.3389 13.4479 19.7763Z"
+                    id="Vector" stroke="#E09500" stroke-linecap="round" stroke-linejoin="round"
+                    stroke-miterlimit="10" />
+                <path
+                    d="M7.22461 26.0003H24.3404C25.1997 26.0003 25.8964 25.3036 25.8964 24.4443V6.18762L20.71 1.00086H8.78059C7.92127 1.00086 7.22461 1.69752 7.22461 2.55684V13.5524"
+                    id="Vector_2" stroke="#E09500" stroke-linecap="round" stroke-linejoin="round"
+                    stroke-miterlimit="10" />
+                <path d="M20.709 1.00059V6.18719H25.8956L20.709 1.00059Z" id="Vector_3"
+                    stroke="#E09500" stroke-linecap="round" stroke-linejoin="round"
+                    stroke-miterlimit="10" />
+                <path d="M11.3418 15.1086H22.2668" id="Vector_4" stroke="#E09500"
+                    stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" />
+                <path d="M10.8555 10.4404H22.266" id="Vector_5" stroke="#E09500"
+                    stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" />
+                <path d="M13.4473 19.7765H22.2645" id="Vector_6" stroke="#E09500"
+                    stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" />
+                <path d="M7.22461 16.6645V19.7765H9.29925" id="Vector_7" stroke="#E09500"
+                    stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" />
+            </g>
+        </g>
+    </g>
+</svg>

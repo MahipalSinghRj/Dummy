@@ -1,0 +1,22 @@
+<svg fill="none" height="26" viewBox="0 0 26 26" width="26" xmlns="http://www.w3.org/2000/svg">
+    <g id="17140207011596026803 1">
+        <path
+            d="M13 19.5C15.925 19.5 18.7688 20.0688 21.2875 21.2063C22.75 19.4188 23.5625 17.1438 23.5625 14.625C23.5625 8.775 18.85 4.0625 13 4.0625C7.15 4.0625 2.4375 8.775 2.4375 14.625C2.4375 17.1438 3.33125 19.4188 4.7125 21.2063C7.23125 20.0688 10.075 19.5 13 19.5Z"
+            id="Vector" stroke="#111111" stroke-linecap="round" stroke-linejoin="round"
+            stroke-miterlimit="10" stroke-width="2" />
+        <path d="M13 6.5V8.125" id="Vector_2" stroke="#E21E24" stroke-linecap="round"
+            stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5" />
+        <path d="M7.23126 8.85626L8.36876 9.99376" id="Vector_3" stroke="#E21E24"
+            stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"
+            stroke-width="1.5" />
+        <path d="M4.875 14.625H6.5" id="Vector_4" stroke="#E21E24" stroke-linecap="round"
+            stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5" />
+        <path d="M21.125 14.625H19.5" id="Vector_5" stroke="#E21E24" stroke-linecap="round"
+            stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5" />
+        <path d="M18.7687 8.85626L17.6312 9.99376" id="Vector_6" stroke="#E21E24"
+            stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"
+            stroke-width="1.5" />
+        <path d="M13 19.5L16.25 13" id="Vector_7" stroke="#111111" stroke-linecap="round"
+            stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5" />
+    </g>
+</svg>
